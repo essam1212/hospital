@@ -6,7 +6,19 @@ This project provides a complete **Business Intelligence solution** built using 
 The dashboard transforms raw hospital data into **clear, actionable insights** that support strategic decision-making and resource optimization.
 
 ---
+## 🖥️ Dashboard Preview
 
+### **Finance**
+
+![Analysis Sheet](Finance.png)
+
+### **Operations Sheet**
+
+![Operations](Operations.png)
+### **patients Sheet**
+
+![patients](patients.png)
+------------------
 ## 🎯 Project Objectives
 
 The dashboard includes **three major analytical views**, each answering key strategic questions:
